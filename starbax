@@ -1,0 +1,25 @@
+<html>
+<title>Starbucks</title>
+<body style="background:#edfcf1;font-family:Courier New">
+    <header>      
+  <img src="https://villagecentertahoe.com/wp-content/uploads/2014/12/starbucks-logo.jpg"width="95px" height="95px">
+  <a style="margin: 10px; font-size: 25px; color: black;"><b>MENU</b></a> 
+   <a style="margin: 10px; font-size: 25px; color: black"><b>REWARDS</b></a> 
+    <a style="margin: 10px; font-size: 25px; color: black"><b>PRESENTS </b></a>  
+
+    </header>
+    <main>
+      <div style="display: flex; justify-content: space-around;">  <img src="https://about.starbucks.com/uploads/2024/10/Starbucks_Wicked_ElphabaColdBrew.jpg" width="270px">
+                <p style="font-size:30px;background:#80bf8f"><b>Найкраще взимку
+З’явилося нове зимове меню, у якому представлено новий Cortado, а також фісташкові напої та Matcha Latte — тепер налаштовані відповідно до вашого ідеального рівня солодкості.</b></p></div>
+  <div style="display: flex; justify-content: space-around;"> 
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREluJrPiaJ-cq81qijKsiep9xgXVtFLDIqxxDEqEEXTmfrif8BdM4MZnmq7EFmqyFgHxg&usqp=CAU" width="270px">
+                <p style="font-size:30px;background:#80bf8f"><b> Ця кава походить із Латинської Америки та дарує збалансований смак горіхів і какао зі злегка солодкуватим відтінком, який розкривається завдяки обсмажуванню.</b></p></div>     
+    </main>
+    <footer style="background-color:#1f522c;text-size:40px">
+<p style="text-align:center"><img src="https://www.starbucksathome.com/ua/sites/default/files/2021-03/Lockup.svg"></p>
+<p style="text-align:center;color: white">Дійсно для нових учасників Starbucks Rewards протягом 7 днів після реєстрації. Купон буде  </p>
+<p style="text-align:center;color: white">доступний на вкладці пропозицій у вашому додатку Starbucks після реєстрації та може тривати до 48 </p><p style="text-align:center;color: white"> годин Хороший у магазинах США, які беруть участь у програмі, для напою ручної роботи розміром із </p><p style="text-align:center;color: white">меню з відповідною покупкою (максимальна вартість 8 доларів). Кваліфікована покупка не включає </p><p style="text-align:center;color: white">алкоголь картку Starbucks і перезавантаження картки. Обмеження один. Не поєднується з іншими пропозиціями чи знижками. Без послуг доставки. Зареєструйтесь до 30.03.2025.</p>
+    </footer>
+</body>
+</html>
